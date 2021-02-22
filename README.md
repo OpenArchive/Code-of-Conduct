@@ -3,23 +3,20 @@
 
 ## Our Pledge
 
-We as members, contributors, and leaders pledge to make participation in our
-community a harassment-free experience for everyone, regardless of age, body
-size, visible or invisible disability, ethnicity, sex characteristics, gender
-identity and expression, level of experience, education, socio-economic status,
-nationality, personal appearance, race, caste, color, religion, or sexual identity
-and orientation.
+At OpenArchive we are committed to providing a welcoming and inspiring community for ALL!
+This Code of Conduct outlines the expectations of our community of contributirs for participation.
 
-We pledge to act and interact in ways that contribute to an open, welcoming,
-diverse, inclusive, and healthy community.
+We pledge to make participation in our community a harassment-free experience for everyone, regardless of age, body
+size, visible or invisible disability, ethnicity, sex characteristics, gender identity and expression, level of experience, education, socio-economic status, nationality, personal appearance, race, caste, color, religion, or sexual identity, and orientation.
+
+We pledge to act and interact in ways that contribute to an open, welcoming, diverse, inclusive, and healthy community.
 
 ## Our Standards
 
-Examples of behavior that contributes to a positive environment for our
-community include:
+We as the community of contributors at OpenArchive strive to:
 
-* Demonstrating empathy and kindness toward other people
-* Being respectful of differing opinions, viewpoints, and experiences
+* Be welcoming by demonstrating empathy and kindness toward other people
+* Be patient and respectful with each other even in differing opinions, viewpoints, primary spoken language of a contributor, and/or levels of professional and life experience
 * Giving and gracefully accepting constructive feedback
 * Accepting responsibility and apologizing to those affected by our mistakes,
   and learning from the experience
@@ -39,12 +36,12 @@ Examples of unacceptable behavior include:
 
 ## Enforcement Responsibilities
 
-Community leaders are responsible for clarifying and enforcing our standards of
+OpenArchive community leaders are responsible for clarifying and enforcing our standards of
 acceptable behavior and will take appropriate and fair corrective action in
 response to any behavior that they deem inappropriate, threatening, offensive,
 or harmful.
 
-Community leaders have the right and responsibility to remove, edit, or reject
+OpenArchive community leaders have the right and responsibility to remove, edit, or reject
 comments, commits, code, wiki edits, issues, and other contributions that are
 not aligned to this Code of Conduct, and will communicate reasons for moderation
 decisions when appropriate.
@@ -60,8 +57,7 @@ representative at an online or offline event.
 ## Enforcement
 
 Instances of abusive, harassing, or otherwise unacceptable behavior may be
-reported to the community leaders responsible for enforcement at
-[INSERT CONTACT METHOD].
+reported to the community leaders responsible for enforcement at info@open-archive.org.
 All complaints will be reviewed and investigated promptly and fairly.
 
 All community leaders are obligated to respect the privacy and security of the
