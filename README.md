@@ -1,5 +1,5 @@
 # OpenArchive's Code of Conduct
-[![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-2.0-4baaaa.svg)](README.md) 
+[![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-2.0-4baaaa.svg)](https://github.com/OpenArchive/Code-of-Conduct#openarchives-code-of-conduct) 
 
 ## Our Pledge
 
