@@ -17,6 +17,7 @@ We as the community of contributors at OpenArchive strive to:
 
 * Be welcoming by demonstrating empathy and kindness toward other people
 * Be patient and respectful with each other even in differing opinions, viewpoints, primary spoken language of a contributor, and/or levels of professional and life experience
+* Maintain respectful, participatory, and productive relationships and conversations among members of the community
 * Giving and gracefully accepting constructive feedback
 * Accepting responsibility and apologizing to those affected by our mistakes,
   and learning from the experience
